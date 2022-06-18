@@ -16,5 +16,5 @@ I'm Chiara, a computer artist and software engineer, currently exploring 3D web 
 ## Next
   
 Data Structures & Algorithms (JavaScript)  
-Pre-Bachelor Math  
+Pre-Bachelor/Bachelor Math  
 Mobile Development
